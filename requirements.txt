@@ -1,0 +1,12 @@
+flask==2.3.3
+flask-cors==4.0.0
+opencv-python==4.8.0.76
+mediapipe==0.10.13
+numpy==1.26.4
+scikit-learn==1.4.2 
+python-dotenv==1.0.1
+cloudinary==1.40.0
+pymongo==4.7.2
+werkzeug==3.0.3
+gunicorn==22.0.0
+watchdog==3.0.0 
